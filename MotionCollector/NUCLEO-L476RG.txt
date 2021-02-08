@@ -1,0 +1,73 @@
+Configuration	NUCLEO-L476RG
+STM32CubeMX 	4.20.1
+Date	04/17/2017
+MCU	STM32L476RGTx
+
+
+
+PERIPHERALS	MODES	FUNCTIONS	PINS
+ADC1	IN1 Single-ended	ADC1_IN1	PC0
+ADC1	Single-ended	ADC1_IN16	PB1
+ADC1	Temperature Sensor Channel	ADC1_TempSens_Input	VP_ADC1_TempSens_Input
+ADC1	Vbat Channel	ADC1_Vbat_Input	VP_ADC1_Vbat_Input
+ADC1	Vrefint Channel	ADC1_Vref_Input	VP_ADC1_Vref_Input
+I2C1	I2C	I2C1_SCL	PB6
+I2C1	I2C	I2C1_SDA	PB9
+RCC	Crystal/Ceramic Resonator	RCC_OSC32_IN	PC14/OSC32_IN
+RCC	Crystal/Ceramic Resonator	RCC_OSC32_OUT	PC15/OSC32_OUT
+RTC	Activate RTC Clock Source	RTC_VS_RTC_Activate	VP_RTC_VS_RTC_Activate
+SPI2	Full-Duplex Master	SPI2_MISO	PC2
+SPI2	Full-Duplex Master	SPI2_MOSI	PC3
+SPI2	Full-Duplex Master	SPI2_SCK	PB13
+SYS	Serial Wire	SYS_JTCK-SWCLK	PA14
+SYS	Serial Wire	SYS_JTMS-SWDIO	PA13
+SYS	TIM6	SYS_VS_tim6	VP_SYS_VS_tim6
+USART1	Asynchronous	USART1_RX	PA10
+USART1	Asynchronous	USART1_TX	PA9
+
+
+
+Pin Nb	PINs	FUNCTIONs	LABELs
+2	PC13	GPIO_EXTI13	BUTTON
+3	PC14/OSC32_IN	RCC_OSC32_IN	
+4	PC15/OSC32_OUT	RCC_OSC32_OUT	
+8	PC0	ADC1_IN1	
+10	PC2	SPI2_MISO	
+11	PC3	SPI2_MOSI	
+21	PA5	GPIO_Output	LED
+27	PB1	ADC1_IN16	
+34	PB13	SPI2_SCK	
+42	PA9	USART1_TX	
+43	PA10	USART1_RX	
+46	PA13	SYS_JTMS-SWDIO	
+49	PA14	SYS_JTCK-SWCLK	
+58	PB6	I2C1_SCL	
+62	PB9	I2C1_SDA	
+
+
+
+SOFTWARE PROJECT
+
+Project Settings : 
+Project Name : NUCLEO-L476RG
+Project Folder : C:\Users\KONGZELUN\Desktop\Projects\Release
+Toolchain / IDE : MDK-ARM V5
+Firmware Package Name and Version : STM32Cube FW_L4 V1.7.0
+
+
+Code Generation Settings : 
+STM32Cube Firmware Library Package : Copy all used libraries into the project folder
+Generate peripheral initialization as a pair of '.c/.h' files per peripheral : Yes
+Backup previously generated files when re-generating : No
+Delete previously generated files when not re-generated : Yes
+Set all free pins as analog (to optimize the power consumption) : No
+
+
+Toolchains Settings : 
+Compiler Optimizations : Balanced Size/Speed
+
+
+
+
+
+
