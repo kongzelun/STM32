@@ -1,0 +1,16 @@
+warship\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/timers.c
+warship\timers.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+warship\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+warship\timers.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+warship\timers.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+warship\timers.o: ../Inc/FreeRTOSConfig.h
+warship\timers.o: ../Inc/main.h
+warship\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+warship\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+warship\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+warship\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+warship\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+warship\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+warship\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+warship\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
+warship\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h

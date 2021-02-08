@@ -1,0 +1,13 @@
+warship\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/port.c
+warship\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+warship\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+warship\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+warship\port.o: ../Inc/FreeRTOSConfig.h
+warship\port.o: ../Inc/main.h
+warship\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+warship\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+warship\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+warship\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+warship\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+warship\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+warship\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

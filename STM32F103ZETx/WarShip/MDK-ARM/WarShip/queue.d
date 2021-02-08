@@ -1,0 +1,16 @@
+warship\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+warship\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+warship\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+warship\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+warship\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+warship\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+warship\queue.o: ../Inc/FreeRTOSConfig.h
+warship\queue.o: ../Inc/main.h
+warship\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+warship\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+warship\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+warship\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+warship\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+warship\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+warship\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+warship\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h

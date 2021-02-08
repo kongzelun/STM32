@@ -1,0 +1,9 @@
+warship\lcdconf_lin_template.o: ..\User\STemWin\Config\LCDConf_Lin_Template.c
+warship\lcdconf_lin_template.o: ..\User\STemWin\inc\GUI.h
+warship\lcdconf_lin_template.o: ..\User\STemWin\inc\GUI_ConfDefaults.h
+warship\lcdconf_lin_template.o: ..\User\STemWin\Config\GUIConf.h
+warship\lcdconf_lin_template.o: ..\User\STemWin\inc\GUI_Type.h
+warship\lcdconf_lin_template.o: ..\User\STemWin\inc\LCD.h
+warship\lcdconf_lin_template.o: ..\User\STemWin\inc\Global.h
+warship\lcdconf_lin_template.o: ..\User\STemWin\inc\GUI_Version.h
+warship\lcdconf_lin_template.o: ..\User\STemWin\inc\GUIDRV_Lin.h
